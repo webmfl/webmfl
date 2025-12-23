@@ -4,7 +4,7 @@
 📍 Buenos Aires, Argentina  
 
 Soy desarrollador de software con experiencia en **desarrollo web full stack**, creación de **sistemas de gestión**, automatización de procesos y soporte técnico aplicado a entornos reales.  
-Trabajo con tecnologías web modernas y utilizo herramientas de **IA (Cursor, asistentes de código)** como apoyo para mejorar productividad, calidad y aprendizaje continuo.
+Trabajo con tecnologías web modernas y utilizo herramientas de **IA (Cursor, Antigravity)** como apoyo para mejorar productividad, calidad y aprendizaje continuo.
 
 Actualmente busco incorporarme a **equipos de desarrollo en empresas de tecnología**, donde pueda aportar soluciones funcionales y seguir creciendo como desarrollador.
 
@@ -13,15 +13,16 @@ Actualmente busco incorporarme a **equipos de desarrollo en empresas de tecnolog
 ## 🛠️ Tecnologías y herramientas
 
 **Lenguajes & Backend**
-- Python
 - PHP
 - Java (Spring Boot)
+- Python
 - JavaScript
 
 **Frontend**
 - HTML5
 - CSS3
 - JavaScript (vanilla)
+- Angular
 
 **Bases de datos**
 - MySQL
