@@ -85,7 +85,7 @@ Busco una **posición Junior / Trainee como Desarrollador Full Stack**, Backend 
 
 - 📧 Email: martinflazo@gmail.com  
 - 🌐 Web: https://ribbontech.com.ar  
-- 💼 LinkedIn: *(agregalo si querés)*
+- 💼 LinkedIn: ar.linkedin.martin-lazo](https://www.linkedin.com/in/martin-lazo
 
 ---
 
