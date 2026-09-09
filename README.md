@@ -1,6 +1,6 @@
 # 👋 Hola, soy Martín Lazo
 
-🚀 **Desarrollador Full Stack Junior**  
+🚀 **Desarrollador Full Stack Senior - Desarrollador Freelance**  
 📍 Buenos Aires, Argentina  
 
 Soy desarrollador de software con experiencia en **desarrollo web full stack**, creación de **sistemas de gestión**, automatización de procesos y soporte técnico aplicado a entornos reales.  
